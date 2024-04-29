@@ -1,0 +1,16 @@
+.iteminicio{
+    background-color: lightgreen;
+    width: 100%;
+    height: 25%;
+}
+.Findepagina{
+    background-color: lightgreen;
+    width: 100%;
+    height: 25%;
+}
+.BordeFormulario{
+    border-width: 10%;
+    border-style: dotted;
+    border-color: burlywood;
+    padding: 1em;
+}
